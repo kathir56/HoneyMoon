@@ -10,11 +10,13 @@ The Honeymoon App is a SwiftUI-based iOS and iPadOS application designed to prov
 
 # Screenshots
 
-- Main View
-<img width="543" alt="Screenshot 2024-04-21 at 15 56 44" src="https://github.com/kathir56/HoneyMoon/assets/139846785/911f3a1a-3e7b-4af6-8acb-0d7522306e65">
+- Main View<br>
+
+<img width="543" alt="Screenshot 2024-04-21 at 15 56 44" src="https://github.com/kathir56/HoneyMoon/assets/139846785/911f3a1a-3e7b-4af6-8acb-0d7522306e65"><br>
 
 
-- Guide View
+- Guide View<br>
+
 <img width="544" alt="Screenshot 2024-04-21 at 15 57 02" src="https://github.com/kathir56/HoneyMoon/assets/139846785/23267b81-d2e8-44a3-aa80-a86a1961f1b2">
 
 # How to Use
